@@ -1,4 +1,4 @@
-## Retail-Performance-Report-Using-Python
+##  Exploratory Data Analysis: Sales Performance Using Python
 
 The Purpose of this case study was to describe the steps I took to examine a retail dataset. To begin, I performed some tasks like removing missing values from datasets, creating new columns, and changing the data type of columns (to datetime). The subject then shifts to the analysis of exploration data, where we explore questions about our data from a business perspective.
 
